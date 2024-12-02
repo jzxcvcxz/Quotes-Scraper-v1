@@ -18,7 +18,6 @@ Here is the sample output for Quotes Scraper v1:
   },
   //more quotes
 ]
-
 ```
 For another output format, please refer to https://github.com/jzxcvcxz/Quotes-Scraper-v2.
 
@@ -28,7 +27,6 @@ Please follow these steps to set up and run Quotes Scraper v1:
 ```
 git clone https://github.com/jzxcvcxz/Quotes-Scraper-v1.git
 ```
-
 
 **2. Install Selenium:**
 ```
